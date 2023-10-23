@@ -4,6 +4,7 @@ import Calculator from "./Calculator";
 function App() {
   return (
     <div>
+       {/* to use it */}
       <Calculator />
     </div>
   );
